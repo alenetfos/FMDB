@@ -1,0 +1,60 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	font-family:monospace;
+	background: #F8F8FF;
+	background-image:url(image.jpg);
+}
+
+.nav1{
+    margin-top:100px;
+	padding-left:100px;
+}
+
+.nav1 ul{
+	list-style-type:none;
+}
+
+.nav1 ul li{
+	display:inline-block;
+}
+
+.nav1 ul li a{
+	color:white;
+	background-color:black;
+	text-decoration:none;
+	padding:10px 15px;
+	font-family:"Roboto",sans-serif;
+	font-size:20px;
+}
+
+#naslov{
+	  position: absolute;
+	  margin-left: 30px;
+    top: 0;
+    left: 0;
+    background-color:black;
+	color:white;
+}
+
+#slikaFerit{
+	
+   float:right;
+   margin-bottom:30px;
+   margin-right:30px;
+}
+
+
+label > h1 {color: ghostwhite}
+
+table {
+	margin-top: 40px;
+	color:ghostwhite;
+}
+
+td {
+	padding: 10px !important;
+}
